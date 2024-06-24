@@ -1,8 +1,8 @@
-# dbus-open-evcc
-Integrate EVCC charger into Victron Venus OS
+# dbus-warp2
+Integrate WARP2 charger into Victron Venus OS
 
 ## Purpose
-This script supports reading EV charger values from EVCC. Writing values is not supported right now 
+This script supports reading EV charger values from a WARP2 charger by Tinkerforge. Writing values is not supported right now
 
 ## Install & Configuration
 ### Get the code
